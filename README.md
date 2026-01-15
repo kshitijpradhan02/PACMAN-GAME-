@@ -1,9 +1,3 @@
-Great project 👍
-I’ll **humanize the README**, make it **less flashy/AI-like**, more **natural, recruiter-friendly**, and suitable for **Circuitsutra / DV / systems-oriented roles**, while keeping it **professional**.
-
-Below is a **clean, human-written README.md** you can directly use.
-
----
 
 # Pacman Game (Console-Based, C)
 
